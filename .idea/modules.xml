@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Blogging Platform.iml" filepath="$PROJECT_DIR$/Blogging Platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/Todo List.iml" filepath="$PROJECT_DIR$/Todo List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weather API.iml" filepath="$PROJECT_DIR$/Weather API.iml" />
       <module fileurl="file://$PROJECT_DIR$/_12Hour-Nodejs.iml" filepath="$PROJECT_DIR$/_12Hour-Nodejs.iml" />
